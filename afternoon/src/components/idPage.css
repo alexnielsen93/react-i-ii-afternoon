@@ -1,0 +1,48 @@
+/* Idpage */
+
+.parentDiv{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  
+}
+.homeBar{
+  background-color: rgb(69, 90, 209);
+  width: 100vw;
+  
+}
+.blackBorder{
+  background-color: black;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60vw;
+}
+.displayBox{
+  display:flex;
+  flex-direction: row;
+  background-color: white;
+  width: 75%;
+  height: 75%;
+  text-align: center;
+  justify-content: space-between;
+}
+.info{
+  display: inline-block;
+  text-align: left;
+}
+.name{
+  color :blue;
+}
+.info{
+  text-align: center;
+}
+.idNum{
+
+}
+.movies{
+  text-align: center;
+}

@@ -1,0 +1,19 @@
+.previous{
+  position: relative;
+  top: -5vw;
+  right: -15vh;
+  color: white;
+  background-color: black;
+  font-size: 20px;
+  border: 0;
+}
+
+.next{
+  position: relative;
+  top: -5vw;
+  right: -80vh;
+  background-color: black;
+  color: white;
+  border: 0;
+  font-size: 20px;
+}
